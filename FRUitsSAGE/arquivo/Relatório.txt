@@ -1,0 +1,33 @@
+                
+                        OBJETIVO!
+
+        O jogo tem como objetivo ordenar uma cadeia de frutas, a mesma será destruida após formar um
+        conjunto de 3(três) ou mais, numa só ordem, seja para a horizontal ou para a vertical, sendo de quaisquer um dos 5(cinco) tipos de frutas existente. Após ser destruidas uma pontuação será dada equivalente a quntidade da mesma sprite presente na cadeia, sendo que cada fruta posui valor de 10(dez) pontos. O jogador terá um total de tepo limite, o qual será pseudo aleatório sendo de 1000 a 10000 milisegundos.
+
+                        CONTROLE!
+
+                TELA INICIAL:
+        Na tela inicial possui toda a pontuação conseguida no canto superior esquerdo.
+        Ao meio da tela havará um botão JOGAR, ao ser clicado ele fará o jogo rodar.
+        O canto inferior esquerdo tem o botão de AJUDA que o traz para esse arquivo.
+
+                TELA DE JOGO:
+        O jogo será controlado por um mouse, o usuário poderá arrastar as frutas para a direita, para a esquerda, para cima ou para baixo, ao clicar na fruta que deseja mexer e depois na fruta vizinha, a qual deseja trocar de posição.
+        A tecla H ou tecla PRINT pode ser ultilizada ultilizada para pedir ajuda ao ser pressionada, o jogador tem um total de 10(dez) pedido de ajuda por rodada, depois que os dez forem ultilizados, a ajuda ficará indisponivel.
+        Pode-se usar a tecla de ESCAPE ou o X no canto superior direito para fechar o jogo.
+        
+
+                        ERROS E BUGs!
+
+        ¹Arquivo .pkl:
+            Em certas ocasiões o código tem dificuldade na leitura do arquivo binário .pkl.
+        
+                        INFORMAÇÕES EXTRAS!
+
+        Nome - FRUitsSAGE
+        criador - Ruan Silvestre dos Santos
+        E-mail - silvestreruan65@gmail.com
+     
+
+
+
